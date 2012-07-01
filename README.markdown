@@ -1,6 +1,14 @@
 # Codeigniter.sugar for Espresso
 
-Codeigniter.sugar brings autocompletion for [Codeigniter](http://codeigniter.com) to MacRabbit's [Espresso](http://macrabbit.com/espresso/) text editor for Mac.
+The Codeigniter.sugar brings autocompletion for [Codeigniter](http://codeigniter.com) to MacRabbit's [Espresso](http://macrabbit.com/espresso/) text editor for Mac.
+
+This is a modification of [Codeigniter.sugar](https://github.com/golonka/codeigniter.sugar/) by [Joseph Landberg](https://github.com/golonka/). Many thanks for the original project.
+
+## Modifications by teamdf
+
+* Added -> to class autocompletion to improve coding speed.
+* Changed method autocompletion style to look more php-esque.
+* Decreased sugar filesize by using shared rules where possible.
 
 ## Installation
 
@@ -9,13 +17,15 @@ Codeigniter.sugar brings autocompletion for [Codeigniter](http://codeigniter.com
 The easiest way to install is writing this in your terminal:
 
     cd ~/Library/Application\ Support/Espresso/Sugars
-    git clone git://github.com/golonka/codeigniter.sugar.git
+    git clone git://github.com/teamdf/codeigniter.sugar.git
 
-Or you could [download the sugar](https://github.com/golonka/codeigniter.sugar/zipball/master), decompress, rename it to "codeigniter.sugar" or a name of your own choise and double click it to install in Espresso.
+Or you could [download the sugar](https://github.com/teamdf/codeigniter.sugar/zipball/master), decompress, rename it to "codeigniter.sugar" or a name of your own choise and double click it to install in Espresso.
 
 ## MIT License
 
-Copyright (c) 2011-2013 [Joseph Landberg](https://github.com/golonka)
+Copyright (c) 2012 [Digital Fusion](http://teamdf.com)
+
+Original Development Copyright (c) 2011-2013 [Joseph Landberg](https://github.com/golonka)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
