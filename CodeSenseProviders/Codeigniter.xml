@@ -236,7 +236,7 @@
 		<provider>
 			<selector>php, php tag.open</selector>
 			<completions>com.golonka.codeigniter.dbutil.methods</completions>
-			<complete-match capture="1">dbutil\-\>([a-zA-Z_]*)</complete-match>
+			<complete-match capture="2">(dbutil|dbforge)\-\>([a-zA-Z_]*)</complete-match>
 		</provider>
 		    
 </codesense>

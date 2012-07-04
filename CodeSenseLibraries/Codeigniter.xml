@@ -12,6 +12,7 @@
  		</behavior>
  		
  		<completion string="db"/>
+ 		<completion string="dbforge"/>
         <completion string="benchmark" />
         <completion string="calendar" />
         <completion string="cart" />
@@ -2727,7 +2728,7 @@
     	    	
     </set>
     
-    <set name="com.golonka.codeigniter.dbforge.methods">
+    <set name="com.golonka.codeigniter.dbutil.methods">
            
     	<completion string="create_database">
     		<behavior>
