@@ -9,6 +9,7 @@ This is a modification of [Codeigniter.sugar](https://github.com/golonka/codeign
 * Added -> to class autocompletion to improve coding speed.
 * Changed method autocompletion style to look more php-esque.
 * Decreased sugar filesize by using shared rules where possible.
+* Fixed dbutil and dbforge autocompletion.
 
 ## Installation
 
@@ -23,9 +24,8 @@ Or you could [download the sugar](https://github.com/teamdf/codeigniter.sugar/zi
 
 ## MIT License
 
-Copyright (c) 2012 [Digital Fusion](http://teamdf.com)
-
 Original Development Copyright (c) 2011-2013 [Joseph Landberg](https://github.com/golonka)
+Modifications Copyright (c) 2012 [Digital Fusion](http://teamdf.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
